@@ -1,0 +1,1 @@
+{'date3': False, 'MCTEST': None, 'data5': 68, 'data4': 'this is a data', 'data6': (1, 6), 'data1': 1.0, 'data2': 2}
